@@ -253,8 +253,11 @@ h6,
 .related-carousel .owl-nav .owl-prev:hover,
 .related-carousel .owl-nav .owl-next:hover {
     background: var(--secondary);
+    
 }
-
+.owl-carousel:hover   h4{
+    color:white;
+}
 .vendor-carousel .owl-dots,
 .testimonial-carousel .owl-dots {
     margin-top: 30px;
